@@ -1,0 +1,4 @@
+flask
+pixellib
+opencv-python
+tensorflow==2.9.0  # (or a compatible version)
